@@ -8,33 +8,33 @@
       "id": 800,
       "main": "Clear",
       "description": "clear sky",
-      "icon": "01n"
+      "icon": "01d"
     }
   ],
   "base": "stations",
   "main": {
-    "temp": 1.32,
-    "feels_like": -3.38,
-    "temp_min": 0.9,
-    "temp_max": 2.28,
+    "temp": 1.44,
+    "feels_like": -3.76,
+    "temp_min": 0.46,
+    "temp_max": 2.3,
     "pressure": 1034,
-    "humidity": 92,
+    "humidity": 90,
     "sea_level": 1034,
     "grnd_level": 1020
   },
   "visibility": 10000,
   "wind": {
-    "speed": 5.21,
-    "deg": 39,
-    "gust": 14.06
+    "speed": 6.3,
+    "deg": 42,
+    "gust": 16.07
   },
   "clouds": {
     "all": 0
   },
-  "dt": 1766817290,
+  "dt": 1766823908,
   "sys": {
     "type": 2,
-    "id": 2009741,
+    "id": 2081691,
     "country": "GB",
     "sunrise": 1766823253,
     "sunset": 1766851597
@@ -43,5 +43,5 @@
   "id": 2656173,
   "name": "Bath",
   "cod": 200,
-  "_last_updated_utc": "2025-12-27T06:34:50.447Z"
+  "_last_updated_utc": "2025-12-27T08:29:50.871Z"
 }
