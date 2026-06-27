@@ -5,33 +5,33 @@
   },
   "weather": [
     {
-      "id": 804,
+      "id": 803,
       "main": "Clouds",
-      "description": "overcast clouds",
+      "description": "broken clouds",
       "icon": "04d"
     }
   ],
   "base": "stations",
   "main": {
-    "temp": 27.8,
-    "feels_like": 28.58,
-    "temp_min": 26.72,
-    "temp_max": 28.41,
-    "pressure": 1016,
-    "humidity": 54,
-    "sea_level": 1016,
-    "grnd_level": 1002
+    "temp": 26.08,
+    "feels_like": 26.08,
+    "temp_min": 25.46,
+    "temp_max": 27.01,
+    "pressure": 1015,
+    "humidity": 58,
+    "sea_level": 1015,
+    "grnd_level": 1001
   },
   "visibility": 10000,
   "wind": {
-    "speed": 5.82,
-    "deg": 207,
-    "gust": 7.34
+    "speed": 5.33,
+    "deg": 212,
+    "gust": 7.24
   },
   "clouds": {
-    "all": 100
+    "all": 78
   },
-  "dt": 1782573412,
+  "dt": 1782580350,
   "sys": {
     "type": 2,
     "id": 2081691,
@@ -43,5 +43,5 @@
   "id": 2656173,
   "name": "Bath",
   "cod": 200,
-  "_last_updated_utc": "2026-06-27T15:16:52.263Z"
+  "_last_updated_utc": "2026-06-27T17:12:30.510Z"
 }
