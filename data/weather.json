@@ -13,25 +13,25 @@
   ],
   "base": "stations",
   "main": {
-    "temp": 26.2,
-    "feels_like": 26.2,
-    "temp_min": 25.03,
-    "temp_max": 27.13,
-    "pressure": 1019,
-    "humidity": 47,
-    "sea_level": 1019,
-    "grnd_level": 1005
+    "temp": 26.37,
+    "feels_like": 26.37,
+    "temp_min": 24.5,
+    "temp_max": 27.01,
+    "pressure": 1017,
+    "humidity": 44,
+    "sea_level": 1017,
+    "grnd_level": 1003
   },
   "visibility": 10000,
   "wind": {
-    "speed": 6.32,
-    "deg": 192,
-    "gust": 8.06
+    "speed": 5.92,
+    "deg": 187,
+    "gust": 9.04
   },
   "clouds": {
-    "all": 0
+    "all": 8
   },
-  "dt": 1788701126,
+  "dt": 1788713105,
   "sys": {
     "type": 2,
     "id": 2081691,
@@ -43,5 +43,5 @@
   "id": 2656173,
   "name": "Bath",
   "cod": 200,
-  "_last_updated_utc": "2026-09-06T13:27:01.711Z"
+  "_last_updated_utc": "2026-09-06T16:45:05.606Z"
 }
